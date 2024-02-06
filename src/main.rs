@@ -1,3 +1,5 @@
+mod ledger;
+
 use flexi_logger::{FileSpec, LogSpecification, Logger};
 
 fn init_logger(){
